@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Investment-Calculator/static/css/main.02b8aacc.css",
+    "main.js": "/Investment-Calculator/static/js/main.47702ccb.js",
+    "static/media/investment-calculator-logo.png": "/Investment-Calculator/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/Investment-Calculator/index.html",
+    "main.02b8aacc.css.map": "/Investment-Calculator/static/css/main.02b8aacc.css.map",
+    "main.47702ccb.js.map": "/Investment-Calculator/static/js/main.47702ccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b8aacc.css",
+    "static/js/main.47702ccb.js"
+  ]
+}
